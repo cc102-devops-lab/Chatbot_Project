@@ -1,8 +1,0 @@
-[submodule "Chatbot_Dev"]
-	path = Chatbot_Dev
-	url = https://github.com/cc102-devops-lab/Chatbot_Dev.git
-	branch = master
-[submodule "Chatbot_Line"]
-	path = Chatbot_Line
-	url = https://github.com/cc102-devops-lab/Chatbot_Line.git
-	branch = master
