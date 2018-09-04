@@ -1,0 +1,3 @@
+[submodule "Chatbot_Dev"]
+	path = Chatbot_Dev
+	url = https://github.com/cc102-devops-lab/Chatbot_Dev.git
